@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.svg" width="100%" alt="GDEV.LAB — Gabriel Guedes. Desenvolvimento web, sistemas e TI. Logo g_ original, fundo Midnight e destaque Electric Lime." />
+<img src="./assets/gdev-lab-banner-v2.svg" width="100%" alt="GDEV.LAB — Gabriel Guedes. Desenvolvimento web, sistemas e TI. Logo g_ original, fundo Midnight e destaque Electric Lime." />
 
 <br />
 
