@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-banner.svg" width="100%" alt="Gabriel Guedes — Desenvolvimento Web e Tecnologia da Informação. Identidade visual preta e verde-lima." />
+<img src="./assets/github-banner.svg" width="100%" alt="GDEV.LAB — Gabriel Guedes. Desenvolvimento web, sistemas e TI. Logo g_ original, fundo Midnight e destaque Electric Lime." />
 
 <br />
 
@@ -11,27 +11,27 @@ Desenvolvimento web, sistemas e soluções digitais para desafios reais.
 <br />
 
 <a href="https://portifolio-guedes.pages.dev/">
-  <img src="https://img.shields.io/badge/CONHECER_MEU_PORTF%C3%93LIO-ACESSAR-18321B?style=for-the-badge&labelColor=0B110D&color=31663B" alt="Acessar portfólio online" />
+  <img src="https://img.shields.io/badge/CONHECER_MEU_PORTF%C3%93LIO-ACESSAR-B8FF69?style=for-the-badge&labelColor=242837&color=B8FF69" alt="Acessar portfólio online" />
 </a>
-<a href="https://www.instagram.com/imguedes/">
-  <img src="https://img.shields.io/badge/INSTAGRAM-%40IMGUEDES-18321B?style=for-the-badge&labelColor=0B110D&color=31663B&logo=instagram&logoColor=B2FB61" alt="Instagram @imguedes" />
+<a href="https://www.instagram.com/gdev.lab/">
+  <img src="https://img.shields.io/badge/INSTAGRAM-%40GDEV.LAB-B8FF69?style=for-the-badge&labelColor=242837&color=B8FF69&logo=instagram&logoColor=F4F6FB" alt="Instagram profissional @gdev.lab" />
 </a>
 
 </div>
 
 ---
 
-### <img src="https://img.shields.io/badge/01-SOBRE_MIM-B2FB61?style=flat-square&labelColor=121B14&color=24402A" alt="01 / Sobre mim" />
+### <img src="https://img.shields.io/badge/01-SOBRE_MIM-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="01 / Sobre mim" />
 
-Olá! Sou **Gabriel Guedes**, estudante de **Sistemas de Informação (8º semestre)** e profissional de **Tecnologia da Informação** na Bahia, Brasil. 🇧🇷
+Olá! Sou **Gabriel Guedes**, criador da **GDEV.LAB**, estudante de **Sistemas de Informação (8º semestre)** e profissional de **Tecnologia da Informação** na Bahia, Brasil. 🇧🇷
 
-Atuo na área de TI da **DZSET Transporte desde 2025**, trabalhando com suporte técnico, infraestrutura, conectividade e atendimento às necessidades de diferentes unidades. Em paralelo, desenvolvo aplicações e interfaces web que transformam processos e ideias em soluções digitais.
+Atuo na área de TI da **DZSET Transportes desde 2025**, trabalhando com suporte técnico, infraestrutura, conectividade e atendimento às necessidades de diferentes unidades. Em paralelo, desenvolvo aplicações e interfaces web que transformam processos e ideias em soluções digitais.
 
 Meu objetivo é unir **desenvolvimento, usabilidade e visão prática de negócio** para criar experiências intuitivas, organizadas e úteis — independentemente do setor.
 
 > **Do suporte à construção de sistemas:** entender o problema é tão importante quanto escrever o código.
 
-### <img src="https://img.shields.io/badge/02-TECNOLOGIAS_E_COMPET%C3%8ANCIAS-B2FB61?style=flat-square&labelColor=121B14&color=24402A" alt="02 / Tecnologias e competências" />
+### <img src="https://img.shields.io/badge/02-TECNOLOGIAS_E_COMPET%C3%8ANCIAS-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="02 / Tecnologias e competências" />
 
 <div align="center">
 
@@ -47,7 +47,7 @@ Meu objetivo é unir **desenvolvimento, usabilidade e visão prática de negóci
 | **Infraestrutura & suporte** | Hardware, redes, troubleshooting e suporte a usuários |
 | **Design & experiência** | Interfaces responsivas, usabilidade, design gráfico e produtividade |
 
-### <img src="https://img.shields.io/badge/03-PROJETOS_EM_DESTAQUE-B2FB61?style=flat-square&labelColor=121B14&color=24402A" alt="03 / Projetos em destaque" />
+### <img src="https://img.shields.io/badge/03-PROJETOS_EM_DESTAQUE-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="03 / Projetos em destaque" />
 
 <table>
   <tr>
@@ -76,7 +76,7 @@ Meu objetivo é unir **desenvolvimento, usabilidade e visão prática de negóci
 
 <sub>Os previews acima são mockups ilustrativos, sem dados operacionais ou informações pessoais de terceiros.</sub>
 
-### <img src="https://img.shields.io/badge/04-AL%C3%89M_DO_C%C3%93DIGO-B2FB61?style=flat-square&labelColor=121B14&color=24402A" alt="04 / Além do código" />
+### <img src="https://img.shields.io/badge/04-AL%C3%89M_DO_C%C3%93DIGO-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="04 / Além do código" />
 
 Acredito que a tecnologia deve simplificar rotinas e gerar valor. Por isso, meu trabalho conecta desenvolvimento e suporte técnico à **organização de processos, experiência do usuário e necessidades reais de pessoas e empresas**.
 
@@ -86,9 +86,9 @@ Acredito que a tecnologia deve simplificar rotinas e gerar valor. Por isso, meu 
 <summary><strong>🌍 Read this introduction in English</strong></summary>
 <br />
 
-Hi! I'm **Gabriel Guedes**, an **8th-semester Information Systems student** and an **IT professional** based in Bahia, Brazil.
+Hi! I'm **Gabriel Guedes**, creator of **GDEV.LAB**, an **8th-semester Information Systems student** and an **IT professional** based in Bahia, Brazil.
 
-I've been working in IT at **DZSET Transporte since 2025**, supporting technical operations, connectivity, infrastructure, and users across different locations. I also build web applications and digital solutions, bringing together **development, usability, and practical business insight**.
+I've been working in IT at **DZSET Transportes since 2025**, supporting technical operations, connectivity, infrastructure, and users across different locations. I also build web applications and digital solutions, bringing together **development, usability, and practical business insight**.
 
 My featured projects are **LG Humanas**, a corporate performance-review system, and **StressCare**, an interactive health self-assessment platform. They demonstrate skills I can apply well beyond these industries.
 
@@ -109,11 +109,11 @@ Conheça minha trajetória, veja meus projetos e entre em contato pelo portfóli
 <br />
 
 <a href="https://portifolio-guedes.pages.dev/">
-  <img src="https://img.shields.io/badge/VISITAR_PORTF%C3%93LIO-ONLINE-31663B?style=for-the-badge&labelColor=0B110D&color=31663B" alt="Visitar portfólio" />
+  <img src="https://img.shields.io/badge/VISITAR_PORTF%C3%93LIO-ONLINE-B8FF69?style=for-the-badge&labelColor=242837&color=B8FF69" alt="Visitar portfólio" />
 </a>
 
 <br /><br />
 
-<sub>Gabriel Guedes · Bahia, Brasil · Desenvolvimento com propósito.</sub>
+<sub>GDEV.LAB · Gabriel Guedes · Tecnologia com propósito.</sub>
 
 </div>
