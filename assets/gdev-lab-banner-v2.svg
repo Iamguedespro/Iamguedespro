@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="440" viewBox="0 0 1400 440" role="img" aria-labelledby="title desc">
+<title id="title">GDEV.LAB — Gabriel Guedes</title>
+<desc id="desc">Gabriel Guedes. Desenvolvimento web, sistemas e tecnologia da informação. Identidade GDEV.LAB: Midnight, Electric Lime e símbolo g_ original.</desc>
+<defs>
+  <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#949BAE" stroke-opacity=".08"/></pattern>
+  <clipPath id="clip"><rect width="1400" height="440" rx="20"/></clipPath>
+</defs>
+<g clip-path="url(#clip)">
+  <rect width="1400" height="440" fill="#242837"/>
+  <rect x="940" width="460" height="440" fill="url(#grid)"/>
+  <path d="M940 48V392" stroke="#949BAE" stroke-opacity=".22"/>
+  <g font-family="'JetBrains Mono','DejaVu Sans Mono',Consolas,monospace">
+    <text x="64" y="68" fill="#B8FF69" font-size="25" font-weight="700" letter-spacing="2">GDEV.LAB</text>
+    <text x="876" y="68" fill="#949BAE" font-size="16" text-anchor="end">// PORTFÓLIO</text>
+    <text x="60" y="167" fill="#F4F6FB" font-size="68" font-weight="700" letter-spacing="-3">Gabriel</text>
+    <text x="60" y="246" fill="#B8FF69" font-size="76" font-weight="700" letter-spacing="-4">Guedes.</text>
+    <text x="64" y="298" fill="#F4F6FB" font-size="22">Desenvolvimento web · Sistemas · TI</text>
+    <path d="M64 338H876" stroke="#949BAE" stroke-opacity=".28"/>
+    <text x="64" y="383" fill="#949BAE" font-size="20">// tecnologia com propósito.</text>
+    <text x="1168" y="380" fill="#F4F6FB" font-size="16" text-anchor="middle" letter-spacing="1">DESIGN. CÓDIGO. SOLUÇÕES.</text>
+  </g>
+  <svg x="1066" y="101" width="204" height="213" viewBox="0 0 423 441"><path fill="#B8FF69" d="M46.0759 440V384.828H146.31C162.917 384.828 175.175 380.873 183.083 372.964C191.386 365.054 195.538 353.386 195.538 337.962V305.334L196.724 244.823H183.083L196.131 232.958C196.131 257.874 188.223 277.451 172.407 291.689C156.986 305.927 136.03 313.046 109.538 313.046C75.9287 313.046 49.4368 301.972 30.0621 279.824C10.6874 257.677 1 227.817 1 190.245V123.801C1 86.2293 10.6874 56.3694 30.0621 34.2216C49.4368 12.0739 75.9287 1 109.538 1C136.03 1 156.986 8.31666 172.407 22.95C188.223 37.1878 196.131 56.7649 196.131 81.6811L183.083 69.223H196.131L195.538 6.93243H259V339.149C259 370.393 249.115 394.914 229.345 412.711C209.575 430.904 182.094 440 146.903 440H46.0759ZM130.297 257.874C150.462 257.874 166.278 251.744 177.745 239.484C189.607 226.828 195.538 209.426 195.538 187.278V127.361C195.538 105.213 189.607 88.009 177.745 75.7486C166.278 63.0928 150.462 56.7649 130.297 56.7649C109.34 56.7649 93.1287 62.895 81.6621 75.1554C70.5908 87.0202 65.0552 104.422 65.0552 127.361V187.278C65.0552 209.822 70.5908 227.223 81.6621 239.484C93.1287 251.744 109.34 257.874 130.297 257.874Z"/>
+  <rect x="248" y="397" width="175" height="32" rx="4" fill="#B8FF69"/></svg>
+  <rect x="64" y="419" width="80" height="4" rx="2" fill="#B8FF69"/>
+</g>
+<rect x=".75" y=".75" width="1398.5" height="438.5" rx="20" fill="none" stroke="#949BAE" stroke-opacity=".25" stroke-width="1.5"/>
+</svg>
