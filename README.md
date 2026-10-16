@@ -8,6 +8,8 @@
 
 Desenvolvimento web, sistemas e soluções digitais para desafios reais.
 
+**Labs:** ideias em movimento, experimentos e projetos autorais em desenvolvimento.
+
 <br />
 
 <a href="https://portifolio-guedes.pages.dev/">
@@ -76,7 +78,19 @@ Meu objetivo é unir **desenvolvimento, usabilidade e visão prática de negóci
 
 <sub>Os previews acima são mockups ilustrativos, sem dados operacionais ou informações pessoais de terceiros.</sub>
 
-### <img src="https://img.shields.io/badge/04-AL%C3%89M_DO_C%C3%93DIGO-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="04 / Além do código" />
+### <img src="https://img.shields.io/badge/04-LABS-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="04 / Labs" />
+
+Um espaço da **GDEV.LAB** para explorar novas interfaces, testar interações e transformar ideias em projetos autorais.
+
+#### AIRDECK — apresente com as mãos.
+
+**Em desenvolvimento · Projeto autoral**
+
+Uma experiência de apresentações controladas por gestos, usando câmera ou webcam. O AIRDECK explora uma forma mais natural de navegar entre slides, apontar e destacar ideias durante uma apresentação.
+
+**[Conheça a proposta no Labs ↗](https://portifolio-guedes.pages.dev/labs/airdeck/)**
+
+### <img src="https://img.shields.io/badge/05-AL%C3%89M_DO_C%C3%93DIGO-B8FF69?style=flat-square&labelColor=242837&color=242837" alt="05 / Além do código" />
 
 Acredito que a tecnologia deve simplificar rotinas e gerar valor. Por isso, meu trabalho conecta desenvolvimento e suporte técnico à **organização de processos, experiência do usuário e necessidades reais de pessoas e empresas**.
 
@@ -91,6 +105,8 @@ Hi! I'm **Gabriel Guedes**, creator of **GDEV.LAB**, an **8th-semester Informati
 I've been working in IT at **DZSET Transportes since 2025**, supporting technical operations, connectivity, infrastructure, and users across different locations. I also build web applications and digital solutions, bringing together **development, usability, and practical business insight**.
 
 My featured projects are **LG Humanas**, a corporate performance-review system, and **StressCare**, an interactive health self-assessment platform. They demonstrate skills I can apply well beyond these industries.
+
+In **Labs**, I explore new interfaces and interactions through original projects. **[AIRDECK](https://portifolio-guedes.pages.dev/labs/airdeck/)**, currently under development, explores gesture-controlled presentations using a camera or webcam.
 
 I'm interested in building useful, well-designed software and collaborating on web development opportunities.
 
