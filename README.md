@@ -82,6 +82,10 @@ Meu objetivo é unir **desenvolvimento, usabilidade e visão prática de negóci
 
 Um espaço da **GDEV.LAB** para explorar novas interfaces, testar interações e transformar ideias em projetos autorais.
 
+<a href="https://portifolio-guedes.pages.dev/labs/airdeck/">
+  <img src="https://portifolio-guedes.pages.dev/images/airdeck-interface-preview.webp" width="100%" alt="AIRDECK — prévia visual com a logo da ferramenta, interface em azul e lilás e a proposta Sua próxima ideia, nas suas mãos." />
+</a>
+
 #### AIRDECK — apresente com as mãos.
 
 **Em desenvolvimento · Projeto autoral**
